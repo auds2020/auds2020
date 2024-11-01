@@ -19,6 +19,6 @@
 ### About Me : 
 My name is Audrey Chen! Welcome to my GitHub profile!
 
-I am a senior undergrad studying mechanical engineering at MIT. I like building cool stuff! Check out some of my work below (when I remember to push it)!
+I am an MIT alumna and now work as a technical project manager at <a href="https://formlabs.com/">Formlabs</a>. I like building cool stuff! Check out some of my work below (when I remember to push it)!
 
 Contact me: auds2020@gmail.com
